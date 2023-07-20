@@ -6,7 +6,7 @@ React JavaScript HTML5 CSS3 NPM SASS
 Jira Trello Bitrix
 
 Here are some ideas to get you started:
-
+ 
 - 🔭 I’m currently working on front-end projects
 - 🌱 I’m currently learning React and Angular
 - 👯 I’m looking to collaborate on front-end projects on tourism
